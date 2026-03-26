@@ -1,0 +1,3206 @@
+[2024-09-03T07:19:53.446Z] info: docker.yaml was copied to the config folder
+[2024-09-03T07:19:53.451Z] info: services.yaml was copied to the config folder
+[2024-09-03T07:19:53.452Z] info: bookmarks.yaml was copied to the config folder
+[2024-09-03T07:19:53.464Z] info: widgets.yaml was copied to the config folder
+[2024-09-03T07:19:53.465Z] info: custom.css was copied to the config folder
+[2024-09-03T07:19:53.466Z] info: custom.js was copied to the config folder
+[2024-09-03T07:19:53.510Z] info: kubernetes.yaml was copied to the config folder
+[2024-09-03T07:19:57.404Z] error: undefined
+[2024-09-03T07:19:57.502Z] error: undefined
+[2024-09-03T07:20:02.402Z] error: undefined
+[2024-09-03T07:20:02.509Z] error: undefined
+[2024-09-03T07:20:12.542Z] error: undefined
+[2024-09-03T07:20:37.342Z] error: undefined
+[2024-09-03T07:20:37.812Z] error: undefined
+[2024-09-03T07:20:42.348Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T07:20:42.353Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:20:42.355Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T07:20:42.818Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T07:20:42.820Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:20:42.820Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T07:20:47.847Z] error: undefined
+[2024-09-03T07:21:17.878Z] error: undefined
+[2024-09-03T07:21:42.906Z] error: undefined
+[2024-09-03T07:22:10.773Z] error: undefined
+[2024-09-03T07:22:10.861Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T07:22:10.864Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:22:10.865Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T07:22:15.776Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T07:22:15.777Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:22:15.778Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T07:22:26.157Z] error: undefined
+[2024-09-03T07:22:42.201Z] error: undefined
+[2024-09-03T07:22:42.228Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T07:22:42.229Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:22:42.230Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T07:22:47.205Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T07:22:47.206Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:22:47.208Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T07:22:52.338Z] error: undefined
+[2024-09-03T07:23:02.151Z] error: undefined
+[2024-09-03T07:23:02.200Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T07:23:02.201Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:23:02.202Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T07:23:07.156Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T07:23:07.156Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:23:07.157Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T07:23:12.537Z] error: undefined
+[2024-09-03T07:23:33.598Z] error: undefined
+[2024-09-03T07:23:44.471Z] error: undefined
+[2024-09-03T07:23:44.511Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T07:23:44.512Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:23:44.513Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T07:23:49.477Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T07:23:49.478Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:23:49.479Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T07:23:59.507Z] error: undefined
+[2024-09-03T07:24:17.910Z] error: undefined
+[2024-09-03T07:24:17.944Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T07:24:17.945Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:24:17.945Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T07:24:22.917Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T07:24:22.919Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:24:22.920Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T07:24:27.551Z] error: undefined
+[2024-09-03T07:24:27.919Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T07:24:27.919Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:24:27.920Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T07:24:42.731Z] error: undefined
+[2024-09-03T07:25:05.765Z] error: undefined
+[2024-09-03T07:25:05.812Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T07:25:05.813Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:25:05.813Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T07:25:10.768Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T07:25:10.769Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:25:10.770Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T07:28:59.538Z] error: undefined
+[2024-09-03T07:28:59.621Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T07:28:59.622Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:28:59.622Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T07:29:04.541Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T07:29:04.542Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:29:04.542Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T07:29:09.677Z] error: undefined
+[2024-09-03T07:31:10.928Z] error: undefined
+[2024-09-03T07:31:10.995Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T07:31:10.996Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:31:10.997Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T07:31:15.933Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T07:31:15.933Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:31:15.934Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T07:39:38.867Z] error: undefined
+[2024-09-03T07:39:38.938Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T07:39:38.940Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:39:38.941Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T07:39:43.872Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T07:39:43.874Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:39:43.876Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T07:39:43.944Z] error: undefined
+[2024-09-03T07:39:48.877Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T07:39:48.881Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:39:48.881Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T07:39:48.950Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T07:39:48.950Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T07:39:48.951Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T07:39:53.883Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T07:39:53.884Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:39:53.885Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T07:39:59.073Z] error: undefined
+[2024-09-03T07:40:43.178Z] error: undefined
+[2024-09-03T07:40:43.321Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T07:40:43.322Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:40:43.324Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T07:40:48.182Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T07:40:48.186Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T07:40:48.187Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T07:40:48.327Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T07:40:48.329Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:40:48.330Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T07:40:48.361Z] error: undefined
+[2024-09-03T07:40:48.837Z] error: undefined
+[2024-09-03T07:40:48.894Z] error: undefined
+[2024-09-03T07:40:58.338Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T07:40:58.339Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:40:58.340Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T07:41:03.198Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T07:41:03.199Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T07:41:03.200Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T07:41:03.342Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T07:41:03.343Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:41:03.343Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T07:41:03.959Z] error: undefined
+[2024-09-03T07:41:03.974Z] error: undefined
+[2024-09-03T07:41:23.989Z] error: undefined
+[2024-09-03T07:41:33.009Z] error: undefined
+[2024-09-03T07:41:33.022Z] error: undefined
+[2024-09-03T07:41:38.016Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T07:41:38.018Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:41:38.019Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T07:41:38.025Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T07:41:38.026Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T07:41:38.026Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T07:41:43.022Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T07:41:43.022Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:41:43.023Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T07:41:49.150Z] error: undefined
+[2024-09-03T07:46:27.561Z] error: undefined
+[2024-09-03T07:46:27.567Z] error: undefined
+[2024-09-03T07:46:32.566Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T07:46:32.566Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:46:32.569Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T07:46:32.572Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T07:46:32.574Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T07:46:32.575Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T07:46:37.571Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T07:46:37.572Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:46:37.572Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T07:46:37.596Z] error: undefined
+[2024-09-03T07:46:42.600Z] error: undefined
+[2024-09-03T07:47:03.436Z] error: undefined
+[2024-09-03T07:47:08.438Z] error: undefined
+[2024-09-03T07:58:12.488Z] error: undefined
+[2024-09-03T07:58:12.495Z] error: undefined
+[2024-09-03T07:58:17.489Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T07:58:17.490Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:58:17.491Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T07:58:17.497Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T07:58:17.497Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T07:58:17.498Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T07:58:22.495Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T07:58:22.496Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T07:58:22.497Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T07:58:22.660Z] error: undefined
+[2024-09-03T07:58:27.527Z] error: undefined
+[2024-09-03T07:58:47.796Z] error: undefined
+[2024-09-03T07:58:57.553Z] error: undefined
+[2024-09-03T07:59:22.933Z] error: undefined
+[2024-09-03T07:59:32.898Z] error: undefined
+[2024-09-03T08:01:03.192Z] error: undefined
+[2024-09-03T08:01:29.943Z] error: undefined
+[2024-09-03T08:01:29.991Z] error: undefined
+[2024-09-03T08:01:34.949Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T08:01:34.950Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T08:01:34.951Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T08:01:34.996Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T08:01:34.997Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T08:01:34.998Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T08:01:39.954Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T08:01:39.954Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T08:01:39.955Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T08:01:40.010Z] error: undefined
+[2024-09-03T08:01:45.020Z] error: undefined
+[2024-09-03T08:02:05.051Z] error: undefined
+[2024-09-03T08:02:05.252Z] error: undefined
+[2024-09-03T08:02:40.609Z] error: undefined
+[2024-09-03T08:02:55.657Z] error: undefined
+[2024-09-03T08:05:05.780Z] error: undefined
+[2024-09-03T08:05:05.805Z] error: undefined
+[2024-09-03T08:05:10.786Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T08:05:10.787Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T08:05:10.787Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T08:05:10.805Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T08:05:10.806Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T08:05:10.807Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T08:05:15.791Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T08:05:15.792Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T08:05:15.793Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T08:05:15.870Z] error: undefined
+[2024-09-03T08:05:20.873Z] error: undefined
+[2024-09-03T08:05:31.092Z] error: undefined
+[2024-09-03T08:06:54.790Z] error: undefined
+[2024-09-03T08:06:54.823Z] error: undefined
+[2024-09-03T08:06:59.799Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T08:06:59.802Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T08:06:59.804Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T08:06:59.826Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T08:06:59.827Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T08:06:59.828Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T08:07:04.802Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T08:07:04.802Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T08:07:04.803Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T08:07:04.831Z] error: undefined
+[2024-09-03T08:07:09.807Z] error: undefined
+[2024-09-03T08:07:25.154Z] error: undefined
+[2024-09-03T08:07:34.858Z] error: undefined
+[2024-09-03T08:08:00.732Z] error: undefined
+[2024-09-03T08:08:25.757Z] error: undefined
+[2024-09-03T16:48:17.443Z] error: undefined
+[2024-09-03T16:48:17.466Z] error: undefined
+[2024-09-03T16:48:22.446Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T16:48:22.447Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T16:48:22.450Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T16:48:22.468Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T16:48:22.469Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T16:48:22.469Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T16:48:27.450Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T16:48:27.450Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T16:48:27.452Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T16:49:35.081Z] error: undefined
+[2024-09-03T16:49:35.101Z] error: undefined
+[2024-09-03T16:49:40.086Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T16:49:40.087Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T16:49:40.088Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T16:49:40.105Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T16:49:40.106Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T16:49:40.106Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T16:49:45.092Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T16:49:45.093Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T16:49:45.093Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T16:49:45.137Z] error: undefined
+[2024-09-03T16:49:50.119Z] error: undefined
+[2024-09-03T16:50:05.175Z] error: undefined
+[2024-09-03T16:50:15.169Z] error: undefined
+[2024-09-03T16:50:56.019Z] error: undefined
+[2024-09-03T16:51:11.110Z] error: undefined
+[2024-09-03T16:53:46.753Z] error: undefined
+[2024-09-03T16:53:46.792Z] error: undefined
+[2024-09-03T16:53:51.756Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T16:53:51.757Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T16:53:51.758Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T16:53:51.792Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T16:53:51.792Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T16:53:51.793Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T16:53:56.762Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T16:53:56.762Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T16:53:56.763Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T16:53:56.893Z] error: undefined
+[2024-09-03T16:54:01.888Z] error: undefined
+[2024-09-03T16:54:12.837Z] error: undefined
+[2024-09-03T16:55:37.408Z] error: undefined
+[2024-09-03T16:55:39.340Z] error: undefined
+[2024-09-03T16:55:42.398Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T16:55:42.409Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T16:55:42.412Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T16:55:44.342Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T16:55:44.346Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T16:55:44.348Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T16:55:45.155Z] error: undefined
+[2024-09-03T16:55:47.397Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T16:55:47.400Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T16:55:47.402Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T16:55:52.403Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T16:55:52.406Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T16:55:52.407Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T16:55:54.351Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T16:55:54.353Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T16:55:54.355Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T16:55:57.408Z] error: undefined
+[2024-09-03T16:55:59.357Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T16:55:59.358Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T16:55:59.363Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T16:56:02.413Z] error: undefined
+[2024-09-03T16:56:42.759Z] error: undefined
+[2024-09-03T16:56:42.820Z] error: undefined
+[2024-09-03T16:56:47.766Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T16:56:47.768Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T16:56:47.770Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T16:56:47.821Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T16:56:47.823Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T16:56:47.824Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T16:56:48.421Z] error: undefined
+[2024-09-03T16:56:48.488Z] error: undefined
+[2024-09-03T16:56:52.769Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T16:56:52.771Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T16:56:52.771Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T16:56:57.832Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T16:56:57.833Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T16:56:57.834Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T16:57:02.780Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T16:57:02.781Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T16:57:02.782Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T16:57:02.836Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T16:57:02.837Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T16:57:02.837Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T16:57:07.784Z] error: undefined
+[2024-09-03T16:57:07.842Z] error: undefined
+[2024-09-03T16:57:35.926Z] error: undefined
+[2024-09-03T16:57:36.017Z] error: undefined
+[2024-09-03T16:57:40.929Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T16:57:40.930Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T16:57:40.933Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T16:57:41.023Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T16:57:41.025Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T16:57:41.026Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T16:57:45.935Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T16:57:45.936Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T16:57:45.937Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T16:57:46.028Z] error: undefined
+[2024-09-03T16:57:49.253Z] error: undefined
+[2024-09-03T16:57:56.072Z] error: undefined
+[2024-09-03T16:58:04.360Z] error: undefined
+[2024-09-03T16:58:24.393Z] error: undefined
+[2024-09-03T16:58:26.344Z] error: undefined
+[2024-09-03T16:58:54.713Z] error: undefined
+[2024-09-03T16:59:21.435Z] error: undefined
+[2024-09-03T16:59:45.327Z] error: undefined
+[2024-09-03T17:10:09.404Z] error: undefined
+[2024-09-03T17:10:09.459Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T17:10:09.460Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:10:09.462Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T17:10:14.410Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T17:10:14.414Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:10:14.415Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:10:14.464Z] error: undefined
+[2024-09-03T17:10:19.413Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T17:10:19.414Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T17:10:19.414Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T17:10:19.642Z] error: undefined
+[2024-09-03T17:10:24.724Z] error: undefined
+[2024-09-03T17:10:50.497Z] error: undefined
+[2024-09-03T17:10:50.503Z] error: undefined
+[2024-09-03T17:19:31.019Z] error: undefined
+[2024-09-03T17:19:31.028Z] error: undefined
+[2024-09-03T17:19:36.021Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T17:19:36.022Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:19:36.022Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:19:36.032Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T17:19:36.033Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:19:36.034Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T17:19:41.025Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T17:19:41.026Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T17:19:41.026Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T17:19:41.174Z] error: undefined
+[2024-09-03T17:19:46.031Z] error: undefined
+[2024-09-03T17:20:01.201Z] error: undefined
+[2024-09-03T17:20:16.559Z] error: undefined
+[2024-09-03T17:20:37.949Z] error: undefined
+[2024-09-03T17:20:38.009Z] error: undefined
+[2024-09-03T17:20:42.952Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T17:20:42.953Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:20:42.953Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:20:43.012Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T17:20:43.013Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T17:20:43.013Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T17:20:47.958Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T17:20:47.959Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:20:47.960Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T17:20:48.805Z] error: undefined
+[2024-09-03T17:20:53.818Z] error: undefined
+[2024-09-03T17:21:01.820Z] error: undefined
+[2024-09-03T17:21:42.204Z] error: undefined
+[2024-09-03T17:21:42.269Z] error: undefined
+[2024-09-03T17:21:47.210Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T17:21:47.211Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T17:21:47.212Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T17:21:47.275Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T17:21:47.276Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:21:47.277Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:21:49.040Z] error: undefined
+[2024-09-03T17:21:49.122Z] error: undefined
+[2024-09-03T17:21:52.283Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T17:21:52.284Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T17:21:52.284Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T17:21:57.222Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T17:21:57.223Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:21:57.224Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:22:04.080Z] error: undefined
+[2024-09-03T17:22:04.297Z] error: undefined
+[2024-09-03T17:22:22.245Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T17:22:22.245Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:22:22.246Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:22:27.238Z] error: undefined
+[2024-09-03T17:22:37.225Z] error: undefined
+[2024-09-03T17:23:13.269Z] error: undefined
+[2024-09-03T17:23:17.310Z] error: undefined
+[2024-09-03T17:23:44.659Z] error: undefined
+[2024-09-03T17:23:44.685Z] error: undefined
+[2024-09-03T17:23:49.667Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T17:23:49.668Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T17:23:49.668Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T17:23:49.691Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T17:23:49.692Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:23:49.692Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:24:00.446Z] error: undefined
+[2024-09-03T17:24:00.477Z] error: undefined
+[2024-09-03T17:24:05.451Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T17:24:05.451Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T17:24:05.452Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T17:24:05.477Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T17:24:05.478Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:24:05.478Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:24:14.921Z] error: undefined
+[2024-09-03T17:24:14.982Z] error: undefined
+[2024-09-03T17:24:16.584Z] error: <credentialedProxyHandler> HTTP Error 400 calling http://nextcloud/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:24:19.944Z] error: undefined
+[2024-09-03T17:24:20.001Z] error: undefined
+[2024-09-03T17:24:20.076Z] error: <credentialedProxyHandler> HTTP Error 400 calling http://nextcloud/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:24:34.983Z] error: undefined
+[2024-09-03T17:24:35.035Z] error: <credentialedProxyHandler> HTTP Error 400 calling http://nextcloud/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:24:35.048Z] error: undefined
+[2024-09-03T17:24:51.017Z] error: <credentialedProxyHandler> HTTP Error 400 calling http://nextcloud/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:24:57.531Z] error: undefined
+[2024-09-03T17:24:57.545Z] error: undefined
+[2024-09-03T17:24:57.581Z] error: <credentialedProxyHandler> HTTP Error 400 calling http://nextcloud/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:25:03.510Z] error: <credentialedProxyHandler> HTTP Error 400 calling http://nextcloud/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:25:05.447Z] error: undefined
+[2024-09-03T17:25:13.481Z] error: undefined
+[2024-09-03T17:25:13.488Z] error: undefined
+[2024-09-03T17:25:48.232Z] error: undefined
+[2024-09-03T17:25:48.292Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/nginx/proxy-hosts...
+[2024-09-03T17:25:48.293Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:25:53.237Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T17:25:53.238Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:25:53.238Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:25:53.299Z] error: undefined
+[2024-09-03T17:25:56.097Z] error: undefined
+[2024-09-03T17:25:56.142Z] error: undefined
+[2024-09-03T17:25:58.241Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T17:25:58.242Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T17:25:58.242Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T17:26:03.304Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/nginx/proxy-hosts...
+[2024-09-03T17:26:03.304Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:26:08.252Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T17:26:08.253Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T17:26:08.253Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T17:26:08.310Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T17:26:08.311Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:26:08.311Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:29:23.958Z] error: undefined
+[2024-09-03T17:29:23.992Z] error: undefined
+[2024-09-03T17:29:28.955Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T17:29:28.962Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:29:28.965Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T17:29:28.998Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T17:29:29.000Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:29:29.003Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:29:31.693Z] error: undefined
+[2024-09-03T17:29:32.372Z] error: undefined
+[2024-09-03T17:29:33.956Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T17:29:33.960Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T17:29:33.961Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T17:29:38.964Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T17:29:38.967Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:29:38.968Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T17:29:39.009Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T17:29:39.010Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T17:29:39.011Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T17:29:43.966Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T17:29:43.967Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:29:43.968Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:29:48.969Z] error: undefined
+[2024-09-03T17:29:49.022Z] error: undefined
+[2024-09-03T17:30:02.229Z] error: undefined
+[2024-09-03T17:30:14.737Z] error: undefined
+[2024-09-03T17:30:39.850Z] error: undefined
+[2024-09-03T17:34:32.936Z] error: undefined
+[2024-09-03T17:34:34.410Z] error: undefined
+[2024-09-03T17:34:37.930Z] error: undefined
+[2024-09-03T17:34:39.422Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T17:34:39.428Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:34:39.430Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T17:34:42.934Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T17:34:42.935Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T17:34:42.936Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T17:34:44.421Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T17:34:44.424Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T17:34:44.424Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-03T17:34:47.974Z] error: undefined
+[2024-09-03T17:34:49.803Z] error: undefined
+[2024-09-03T17:35:13.410Z] error: undefined
+[2024-09-03T17:35:20.227Z] error: undefined
+[2024-09-03T17:35:58.460Z] error: undefined
+[2024-09-03T17:36:20.386Z] error: undefined
+[2024-09-03T17:37:33.110Z] error: undefined
+[2024-09-03T17:37:43.707Z] error: undefined
+[2024-09-03T23:50:35.054Z] error: undefined
+[2024-09-03T23:50:35.113Z] error: undefined
+[2024-09-03T23:50:40.044Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-03T23:50:40.052Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T23:50:40.055Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-03T23:50:40.115Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-03T23:50:40.116Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-03T23:50:40.117Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-03T23:50:45.048Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-03T23:50:45.048Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-03T23:50:45.049Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-04T01:40:36.639Z] error: undefined
+[2024-09-04T01:40:36.690Z] error: undefined
+[2024-09-04T01:40:41.642Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-04T01:40:41.643Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-04T01:40:41.644Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-04T01:40:41.694Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-04T01:40:41.695Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-04T01:40:41.696Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-04T01:40:46.647Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-04T01:40:46.648Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-04T01:40:46.650Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-04T01:46:07.145Z] error: undefined
+[2024-09-04T01:46:07.173Z] error: undefined
+[2024-09-04T01:46:12.150Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-04T01:46:12.151Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-04T01:46:12.152Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-04T01:46:12.177Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-04T01:46:12.178Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-04T01:46:12.179Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-04T01:46:17.154Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-04T01:46:17.155Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-04T01:46:17.156Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-05T20:59:30.634Z] error: undefined
+[2024-09-05T20:59:30.700Z] error: undefined
+[2024-09-05T20:59:35.634Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-05T20:59:35.635Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-05T20:59:35.636Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-05T20:59:35.705Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-05T20:59:35.706Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-05T20:59:35.710Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-05T20:59:38.316Z] error: undefined
+[2024-09-05T20:59:38.426Z] error: undefined
+[2024-09-05T20:59:40.641Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-05T20:59:40.643Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-05T20:59:40.644Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-05T20:59:45.641Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-05T20:59:45.642Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-05T20:59:45.643Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-05T20:59:45.716Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-05T20:59:45.717Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-05T20:59:45.717Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-05T20:59:50.646Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-05T20:59:50.647Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-05T20:59:50.648Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-05T20:59:53.692Z] error: undefined
+[2024-09-05T20:59:53.716Z] error: undefined
+[2024-09-05T21:00:09.307Z] error: undefined
+[2024-09-05T21:00:19.421Z] error: undefined
+[2024-09-05T21:01:45.487Z] error: undefined
+[2024-09-05T21:01:45.534Z] error: undefined
+[2024-09-05T21:01:50.482Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-05T21:01:50.483Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-05T21:01:50.485Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-05T21:01:50.536Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-05T21:01:50.537Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-05T21:01:50.537Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-05T21:01:55.488Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-05T21:01:55.488Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-05T21:01:55.489Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-05T21:02:00.710Z] error: undefined
+[2024-09-05T21:02:00.716Z] error: undefined
+[2024-09-05T21:02:15.734Z] error: undefined
+[2024-09-05T21:02:15.737Z] error: undefined
+[2024-09-05T21:02:45.764Z] error: undefined
+[2024-09-05T21:02:50.756Z] error: undefined
+[2024-09-05T21:04:20.778Z] error: undefined
+[2024-09-05T21:04:20.785Z] error: undefined
+[2024-09-05T21:06:01.015Z] error: undefined
+[2024-09-05T21:08:20.816Z] error: undefined
+[2024-09-05T21:09:01.268Z] error: undefined
+[2024-09-05T21:12:40.841Z] error: undefined
+[2024-09-05T21:17:31.370Z] error: undefined
+[2024-09-05T21:20:29.670Z] error: undefined
+[2024-09-05T21:20:29.693Z] error: undefined
+[2024-09-05T21:20:34.669Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-05T21:20:34.670Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-05T21:20:34.671Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-05T21:20:34.696Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-05T21:20:34.697Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-05T21:20:34.697Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-05T21:20:39.675Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-05T21:20:39.676Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-05T21:20:39.676Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-05T21:23:32.719Z] error: undefined
+[2024-09-05T21:46:57.322Z] error: undefined
+[2024-09-10T01:18:47.272Z] error: undefined
+[2024-09-10T01:18:47.293Z] error: undefined
+[2024-09-10T01:18:52.272Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-10T01:18:52.276Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-10T01:18:52.282Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-10T01:18:52.297Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-10T01:18:52.298Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-10T01:18:52.298Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-10T01:18:57.275Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-10T01:18:57.276Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-10T01:18:57.277Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-10T01:19:00.086Z] error: undefined
+[2024-09-10T01:19:05.089Z] error: undefined
+[2024-09-10T01:19:25.813Z] error: undefined
+[2024-09-10T01:19:35.117Z] error: undefined
+[2024-09-10T01:20:00.844Z] error: undefined
+[2024-09-10T01:20:20.256Z] error: undefined
+[2024-09-10T01:20:38.172Z] error: undefined
+[2024-09-10T01:20:38.189Z] error: undefined
+[2024-09-10T01:20:43.180Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-10T01:20:43.181Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-10T01:20:43.183Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-10T01:20:43.194Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-10T01:20:43.195Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-10T01:20:43.195Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-10T01:20:48.184Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-10T01:20:48.185Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-10T01:20:48.185Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-10T01:20:53.214Z] error: undefined
+[2024-09-10T01:20:53.219Z] error: undefined
+[2024-09-10T01:21:13.241Z] error: undefined
+[2024-09-10T01:21:23.245Z] error: undefined
+[2024-09-10T01:21:30.465Z] error: undefined
+[2024-09-10T01:21:48.516Z] error: undefined
+[2024-09-11T15:30:28.103Z] error: undefined
+[2024-09-11T15:30:28.169Z] error: undefined
+[2024-09-11T15:30:33.104Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-11T15:30:33.110Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-11T15:30:33.110Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-11T15:30:33.174Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-11T15:30:33.174Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-11T15:30:33.175Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-11T15:30:38.108Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-11T15:30:38.109Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-11T15:30:38.112Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-11T15:30:38.180Z] error: undefined
+[2024-09-11T15:30:44.134Z] error: undefined
+[2024-09-27T23:16:16.402Z] error: undefined
+[2024-09-27T23:16:17.945Z] error: <httpProxy> Error calling http://192.168.0.119:8081/rpc.php...
+[2024-09-27T23:16:17.960Z] error: <httpProxy> [
+  500,
+  Error: connect EHOSTUNREACH 192.168.0.119:8081
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -113,
+    code: 'EHOSTUNREACH',
+    syscall: 'connect',
+    address: '192.168.0.119',
+    port: 8081
+  }
+]
+[2024-09-27T23:16:17.963Z] error: <OMVProxyHandler> HTTP 500 getting data from OpenMediaVault RPC. Data: { error: [Object] }
+[2024-09-27T23:16:17.966Z] error: <httpProxy> Error calling http://192.168.0.119:8081/rpc.php...
+[2024-09-27T23:16:17.974Z] error: <httpProxy> [
+  500,
+  Error: connect EHOSTUNREACH 192.168.0.119:8081
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -113,
+    code: 'EHOSTUNREACH',
+    syscall: 'connect',
+    address: '192.168.0.119',
+    port: 8081
+  }
+]
+[2024-09-27T23:16:17.979Z] error: <OMVProxyHandler> HTTP 500 getting data from OpenMediaVault RPC. Data: { error: [Object] }
+[2024-09-27T23:16:19.928Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-27T23:16:19.931Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-27T23:16:19.936Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-27T23:16:21.363Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-27T23:16:21.366Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-27T23:16:21.373Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-27T23:16:24.928Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-27T23:16:24.931Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-27T23:16:24.933Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-27T23:16:26.059Z] error: undefined
+[2024-09-27T23:16:26.221Z] error: undefined
+[2024-09-27T23:16:31.368Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-27T23:16:31.369Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-27T23:16:31.372Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-27T23:16:34.942Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-27T23:16:34.943Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-27T23:16:34.944Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-27T23:16:36.374Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-27T23:16:36.376Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-27T23:16:36.377Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-27T23:16:39.944Z] error: undefined
+[2024-09-27T23:16:41.382Z] error: undefined
+[2024-09-27T23:17:01.422Z] error: undefined
+[2024-09-27T23:17:05.004Z] error: undefined
+[2024-09-27T23:17:45.032Z] error: undefined
+[2024-09-27T23:17:56.466Z] error: undefined
+[2024-09-27T23:19:25.063Z] error: undefined
+[2024-09-27T23:19:41.497Z] error: undefined
+[2024-09-27T23:21:05.092Z] error: undefined
+[2024-09-27T23:22:31.537Z] error: undefined
+[2024-09-27T23:27:20.121Z] error: undefined
+[2024-09-27T23:30:26.573Z] error: undefined
+[2024-09-27T23:37:51.603Z] error: undefined
+[2024-09-27T23:41:00.157Z] error: undefined
+[2024-09-27T23:54:35.191Z] error: undefined
+[2024-09-28T00:05:26.639Z] error: undefined
+[2024-09-28T00:16:21.679Z] error: undefined
+[2024-09-28T00:24:45.231Z] error: undefined
+[2024-09-28T00:37:26.713Z] error: undefined
+[2024-09-28T00:42:50.263Z] error: undefined
+[2024-09-28T00:50:01.750Z] error: undefined
+[2024-09-28T00:58:50.310Z] error: undefined
+[2024-09-28T01:08:21.789Z] error: undefined
+[2024-09-28T01:11:10.399Z] error: undefined
+[2024-09-28T01:24:05.440Z] error: undefined
+[2024-09-28T01:29:56.834Z] error: undefined
+[2024-09-28T01:43:05.480Z] error: undefined
+[2024-09-28T01:52:21.881Z] error: undefined
+[2024-09-28T02:03:51.920Z] error: undefined
+[2024-09-28T02:04:55.513Z] error: undefined
+[2024-09-28T02:25:31.958Z] error: undefined
+[2024-09-28T02:27:40.544Z] error: undefined
+[2024-09-28T02:40:46.998Z] error: undefined
+[2024-09-28T02:53:50.586Z] error: undefined
+[2024-09-28T02:57:52.034Z] error: undefined
+[2024-09-28T03:09:10.627Z] error: undefined
+[2024-09-28T03:14:47.067Z] error: undefined
+[2024-09-28T03:31:00.673Z] error: undefined
+[2024-09-28T03:31:47.100Z] error: undefined
+[2024-09-28T03:53:00.716Z] error: undefined
+[2024-09-28T03:54:32.131Z] error: undefined
+[2024-09-28T04:11:00.760Z] error: undefined
+[2024-09-28T04:17:37.159Z] error: undefined
+[2024-09-28T04:37:25.795Z] error: undefined
+[2024-09-28T04:41:37.183Z] error: undefined
+[2024-09-28T04:57:00.832Z] error: undefined
+[2024-09-28T05:08:27.221Z] error: undefined
+[2024-09-28T05:23:26.071Z] error: undefined
+[2024-09-28T05:27:47.249Z] error: undefined
+[2024-09-28T05:41:11.101Z] error: undefined
+[2024-09-28T05:45:07.287Z] error: undefined
+[2024-09-28T06:06:22.326Z] error: undefined
+[2024-09-28T06:07:11.132Z] error: undefined
+[2024-09-28T06:20:27.365Z] error: undefined
+[2024-09-28T06:39:01.173Z] error: undefined
+[2024-09-28T06:41:07.395Z] error: undefined
+[2024-09-28T07:08:01.214Z] error: undefined
+[2024-09-28T07:10:17.433Z] error: undefined
+[2024-09-28T07:24:46.245Z] error: undefined
+[2024-09-28T07:32:17.472Z] error: undefined
+[2024-09-28T07:42:41.290Z] error: undefined
+[2024-09-28T07:55:56.326Z] error: undefined
+[2024-09-28T08:00:47.508Z] error: undefined
+[2024-09-28T08:19:12.544Z] error: undefined
+[2024-09-28T08:26:01.373Z] error: undefined
+[2024-09-28T08:37:57.578Z] error: undefined
+[2024-09-28T08:50:01.425Z] error: undefined
+[2024-09-28T09:06:02.617Z] error: undefined
+[2024-09-28T09:10:01.459Z] error: undefined
+[2024-09-28T09:35:46.494Z] error: undefined
+[2024-09-28T09:36:02.648Z] error: undefined
+[2024-09-28T09:49:17.689Z] error: undefined
+[2024-09-28T09:53:06.536Z] error: undefined
+[2024-09-28T10:05:01.578Z] error: undefined
+[2024-09-28T10:20:07.728Z] error: undefined
+[2024-09-28T10:36:31.616Z] error: undefined
+[2024-09-28T10:40:52.757Z] error: undefined
+[2024-09-28T10:53:32.789Z] error: undefined
+[2024-09-28T10:53:36.652Z] error: undefined
+[2024-09-28T11:09:57.825Z] error: undefined
+[2024-09-28T11:11:21.680Z] error: undefined
+[2024-09-28T11:21:52.866Z] error: undefined
+[2024-09-28T11:32:26.717Z] error: undefined
+[2024-09-28T11:37:37.896Z] error: undefined
+[2024-09-28T11:56:11.821Z] error: undefined
+[2024-09-28T11:59:52.935Z] error: undefined
+[2024-09-28T12:07:16.855Z] error: undefined
+[2024-09-28T12:24:57.969Z] error: undefined
+[2024-09-28T12:38:31.895Z] error: undefined
+[2024-09-28T12:53:56.934Z] error: undefined
+[2024-09-28T12:54:13.019Z] error: undefined
+[2024-09-28T13:07:43.053Z] error: undefined
+[2024-09-28T13:23:56.971Z] error: undefined
+[2024-09-28T13:28:13.084Z] error: undefined
+[2024-09-28T13:36:17.002Z] error: undefined
+[2024-09-28T13:59:43.122Z] error: undefined
+[2024-09-28T14:07:12.038Z] error: undefined
+[2024-09-28T14:19:07.077Z] error: undefined
+[2024-09-28T14:25:13.158Z] error: undefined
+[2024-09-28T14:30:42.233Z] error: undefined
+[2024-09-28T14:38:58.196Z] error: undefined
+[2024-09-28T14:50:52.267Z] error: undefined
+[2024-09-28T14:51:13.225Z] error: undefined
+[2024-09-28T15:02:47.306Z] error: undefined
+[2024-09-28T15:23:08.536Z] error: undefined
+[2024-09-28T15:27:47.343Z] error: undefined
+[2024-09-28T15:38:13.573Z] error: undefined
+[2024-09-28T15:51:12.375Z] error: undefined
+[2024-09-28T15:58:08.604Z] error: undefined
+[2024-09-28T16:11:27.411Z] error: undefined
+[2024-09-28T16:22:23.638Z] error: undefined
+[2024-09-28T16:28:42.444Z] error: undefined
+[2024-09-28T16:44:43.676Z] error: undefined
+[2024-09-28T16:54:22.480Z] error: undefined
+[2024-09-28T17:05:38.708Z] error: undefined
+[2024-09-28T17:17:22.521Z] error: undefined
+[2024-09-28T17:32:27.548Z] error: undefined
+[2024-09-28T17:37:03.738Z] error: undefined
+[2024-09-28T17:44:07.585Z] error: undefined
+[2024-09-28T17:58:48.773Z] error: undefined
+[2024-09-28T18:07:37.622Z] error: undefined
+[2024-09-28T18:14:13.805Z] error: undefined
+[2024-09-28T18:35:12.660Z] error: undefined
+[2024-09-28T18:36:23.840Z] error: undefined
+[2024-09-28T18:56:18.872Z] error: undefined
+[2024-09-28T18:59:47.687Z] error: undefined
+[2024-09-28T19:20:13.910Z] error: undefined
+[2024-09-28T19:30:17.721Z] error: undefined
+[2024-09-28T19:39:34.014Z] error: undefined
+[2024-09-28T19:53:57.752Z] error: undefined
+[2024-09-28T19:54:04.043Z] error: undefined
+[2024-09-28T20:22:19.085Z] error: undefined
+[2024-09-28T20:24:17.780Z] error: undefined
+[2024-09-28T20:48:49.129Z] error: undefined
+[2024-09-28T20:50:37.812Z] error: undefined
+[2024-09-28T21:08:52.844Z] error: undefined
+[2024-09-28T21:09:34.160Z] error: undefined
+[2024-09-28T21:31:22.877Z] error: undefined
+[2024-09-28T21:40:14.265Z] error: undefined
+[2024-09-28T21:43:52.907Z] error: undefined
+[2024-09-28T21:54:34.297Z] error: undefined
+[2024-09-28T22:02:32.940Z] error: undefined
+[2024-09-28T22:14:44.327Z] error: undefined
+[2024-09-28T22:26:52.972Z] error: undefined
+[2024-09-28T22:42:54.353Z] error: undefined
+[2024-09-28T22:57:28.002Z] error: undefined
+[2024-09-28T23:04:59.392Z] error: undefined
+[2024-09-28T23:21:43.035Z] error: undefined
+[2024-09-28T23:24:54.423Z] error: undefined
+[2024-09-28T23:41:58.071Z] error: undefined
+[2024-09-28T23:46:19.447Z] error: undefined
+[2024-09-28T23:57:58.105Z] error: undefined
+[2024-09-29T00:11:54.493Z] error: undefined
+[2024-09-29T00:22:48.151Z] error: undefined
+[2024-09-29T00:34:44.595Z] error: undefined
+[2024-09-29T00:45:54.632Z] error: undefined
+[2024-09-29T00:54:43.186Z] error: undefined
+[2024-09-29T01:06:54.667Z] error: undefined
+[2024-09-29T01:20:09.701Z] error: undefined
+[2024-09-29T01:24:18.211Z] error: undefined
+[2024-09-29T01:35:18.249Z] error: undefined
+[2024-09-29T01:46:54.796Z] error: undefined
+[2024-09-29T02:05:33.284Z] error: undefined
+[2024-09-29T02:07:29.827Z] error: undefined
+[2024-09-29T02:29:24.857Z] error: undefined
+[2024-09-29T02:35:18.317Z] error: undefined
+[2024-09-29T02:46:29.892Z] error: undefined
+[2024-09-29T03:00:08.392Z] error: undefined
+[2024-09-29T03:00:54.921Z] error: undefined
+[2024-09-29T03:17:08.433Z] error: undefined
+[2024-09-29T03:20:14.955Z] error: undefined
+[2024-09-29T03:37:43.467Z] error: undefined
+[2024-09-29T03:46:45.016Z] error: undefined
+[2024-09-29T04:06:48.508Z] error: undefined
+[2024-09-29T04:17:53.540Z] error: undefined
+[2024-09-29T04:18:25.055Z] error: undefined
+[2024-09-29T04:39:05.155Z] error: undefined
+[2024-09-29T04:46:33.570Z] error: undefined
+[2024-09-29T04:59:38.719Z] error: undefined
+[2024-09-29T05:07:10.188Z] error: undefined
+[2024-09-29T05:10:33.751Z] error: undefined
+[2024-09-29T05:36:58.791Z] error: undefined
+[2024-09-29T05:37:55.217Z] error: undefined
+[2024-09-29T05:55:23.827Z] error: undefined
+[2024-09-29T05:55:55.352Z] error: undefined
+[2024-09-29T06:07:20.381Z] error: undefined
+[2024-09-29T06:21:33.869Z] error: undefined
+[2024-09-29T06:34:08.900Z] error: undefined
+[2024-09-29T06:38:20.416Z] error: undefined
+[2024-09-29T06:51:33.948Z] error: undefined
+[2024-09-29T06:59:00.453Z] error: undefined
+[2024-09-29T07:17:08.987Z] error: undefined
+[2024-09-29T07:30:25.490Z] error: undefined
+[2024-09-29T07:32:24.017Z] error: undefined
+[2024-09-29T07:42:45.523Z] error: undefined
+[2024-09-29T07:58:25.561Z] error: undefined
+[2024-09-29T08:00:44.049Z] error: undefined
+[2024-09-29T08:12:10.596Z] error: undefined
+[2024-09-29T08:25:30.627Z] error: undefined
+[2024-09-29T08:26:04.074Z] error: undefined
+[2024-09-29T08:49:29.112Z] error: undefined
+[2024-09-29T08:53:05.663Z] error: undefined
+[2024-09-29T09:05:45.702Z] error: undefined
+[2024-09-29T09:14:09.141Z] error: undefined
+[2024-09-29T09:19:05.727Z] error: undefined
+[2024-09-29T09:31:24.169Z] error: undefined
+[2024-09-29T09:45:05.764Z] error: undefined
+[2024-09-29T09:53:09.197Z] error: undefined
+[2024-09-29T10:06:29.236Z] error: undefined
+[2024-09-29T10:16:25.792Z] error: undefined
+[2024-09-29T10:31:04.261Z] error: undefined
+[2024-09-29T10:38:15.821Z] error: undefined
+[2024-09-29T10:53:09.295Z] error: undefined
+[2024-09-29T10:57:50.854Z] error: undefined
+[2024-09-29T11:15:20.886Z] error: undefined
+[2024-09-29T11:19:54.328Z] error: undefined
+[2024-09-29T11:31:09.368Z] error: undefined
+[2024-09-29T11:36:55.923Z] error: undefined
+[2024-09-29T11:53:19.401Z] error: undefined
+[2024-09-29T12:06:30.956Z] error: undefined
+[2024-09-29T12:22:54.435Z] error: undefined
+[2024-09-29T12:33:54.467Z] error: undefined
+[2024-09-29T12:37:50.987Z] error: undefined
+[2024-09-29T12:57:56.020Z] error: undefined
+[2024-09-29T13:02:04.518Z] error: undefined
+[2024-09-29T13:13:46.054Z] error: undefined
+[2024-09-29T13:25:46.084Z] error: undefined
+[2024-09-29T13:27:14.546Z] error: undefined
+[2024-09-29T13:41:31.118Z] error: undefined
+[2024-09-29T13:43:59.580Z] error: undefined
+[2024-09-29T14:00:11.151Z] error: undefined
+[2024-09-29T14:15:49.611Z] error: undefined
+[2024-09-29T14:22:04.539Z] error: <httpProxy> Error calling http://192.168.0.119:8081/rpc.php...
+[2024-09-29T14:22:04.542Z] error: <httpProxy> [
+  500,
+  Error: connect EHOSTUNREACH 192.168.0.119:8081
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -113,
+    code: 'EHOSTUNREACH',
+    syscall: 'connect',
+    address: '192.168.0.119',
+    port: 8081
+  }
+]
+[2024-09-29T14:22:04.544Z] error: <OMVProxyHandler> HTTP 500 getting data from OpenMediaVault RPC. Data: { error: [Object] }
+[2024-09-29T14:22:06.262Z] error: undefined
+[2024-09-29T14:22:06.336Z] error: undefined
+[2024-09-29T14:22:11.267Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-29T14:22:11.269Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-29T14:22:11.273Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-29T14:22:11.343Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-29T14:22:11.344Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-29T14:22:11.345Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-29T14:22:16.271Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-29T14:22:16.273Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-29T14:22:16.278Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-29T14:22:16.429Z] error: undefined
+[2024-09-29T14:22:21.278Z] error: undefined
+[2024-09-29T14:22:36.463Z] error: undefined
+[2024-09-29T14:22:51.304Z] error: undefined
+[2024-09-29T14:23:01.489Z] error: undefined
+[2024-09-29T14:23:26.328Z] error: undefined
+[2024-09-29T14:23:51.518Z] error: undefined
+[2024-09-29T14:25:16.353Z] error: undefined
+[2024-09-29T14:27:17.409Z] error: undefined
+[2024-09-29T14:27:22.240Z] error: undefined
+[2024-09-29T14:28:26.258Z] error: undefined
+[2024-09-29T14:28:58.007Z] error: <httpProxy> Error calling http://192.168.0.119:8081/rpc.php...
+[2024-09-29T14:28:58.009Z] error: <httpProxy> [
+  500,
+  Error: connect EHOSTUNREACH 192.168.0.119:8081
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -113,
+    code: 'EHOSTUNREACH',
+    syscall: 'connect',
+    address: '192.168.0.119',
+    port: 8081
+  }
+]
+[2024-09-29T14:28:58.009Z] error: <OMVProxyHandler> HTTP 500 getting data from OpenMediaVault RPC. Data: { error: [Object] }
+[2024-09-29T14:28:59.823Z] error: undefined
+[2024-09-29T14:28:59.868Z] error: undefined
+[2024-09-29T14:29:04.831Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-29T14:29:04.832Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-29T14:29:04.833Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-29T14:29:04.872Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-29T14:29:04.873Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-29T14:29:04.873Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-29T14:29:09.834Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-29T14:29:09.835Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-29T14:29:09.836Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-29T14:29:10.052Z] error: undefined
+[2024-09-29T14:29:15.055Z] error: undefined
+[2024-09-29T14:29:30.079Z] error: undefined
+[2024-09-29T14:29:30.087Z] error: undefined
+[2024-09-29T14:30:20.121Z] error: undefined
+[2024-09-29T14:30:30.114Z] error: undefined
+[2024-09-29T14:31:38.296Z] error: <httpProxy> Error calling http://192.168.0.119:8081/rpc.php...
+[2024-09-29T14:31:38.298Z] error: <httpProxy> [
+  500,
+  Error: connect EHOSTUNREACH 192.168.0.119:8081
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -113,
+    code: 'EHOSTUNREACH',
+    syscall: 'connect',
+    address: '192.168.0.119',
+    port: 8081
+  }
+]
+[2024-09-29T14:31:38.299Z] error: <OMVProxyHandler> HTTP 500 getting data from OpenMediaVault RPC. Data: { error: [Object] }
+[2024-09-29T14:31:40.108Z] error: undefined
+[2024-09-29T14:31:40.163Z] error: undefined
+[2024-09-29T14:31:45.113Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-29T14:31:45.114Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-29T14:31:45.116Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-29T14:31:45.168Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-29T14:31:45.169Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-29T14:31:45.170Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-29T14:31:50.118Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-29T14:31:50.119Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-29T14:31:50.120Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-29T14:40:17.783Z] error: <httpProxy> Error calling http://192.168.0.119:8081/rpc.php...
+[2024-09-29T14:40:17.784Z] error: <httpProxy> [
+  500,
+  Error: connect EHOSTUNREACH 192.168.0.119:8081
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -113,
+    code: 'EHOSTUNREACH',
+    syscall: 'connect',
+    address: '192.168.0.119',
+    port: 8081
+  }
+]
+[2024-09-29T14:40:17.785Z] error: <OMVProxyHandler> HTTP 500 getting data from OpenMediaVault RPC. Data: { error: [Object] }
+[2024-09-29T14:40:19.542Z] error: undefined
+[2024-09-29T14:40:19.602Z] error: undefined
+[2024-09-29T14:40:24.545Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-09-29T14:40:24.547Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-09-29T14:40:24.548Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-09-29T14:40:24.607Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-09-29T14:40:24.608Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-09-29T14:40:24.608Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-09-29T14:40:29.550Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-09-29T14:40:29.551Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-09-29T14:40:29.551Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-09-29T14:45:55.514Z] error: undefined
+[2024-10-09T18:33:44.658Z] error: undefined
+[2024-10-09T18:33:46.970Z] error: <httpProxy> Error calling http://192.168.0.119:8081/rpc.php...
+[2024-10-09T18:33:46.979Z] error: <httpProxy> [
+  500,
+  Error: connect EHOSTUNREACH 192.168.0.119:8081
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -113,
+    code: 'EHOSTUNREACH',
+    syscall: 'connect',
+    address: '192.168.0.119',
+    port: 8081
+  }
+]
+[2024-10-09T18:33:46.986Z] error: <OMVProxyHandler> HTTP 500 getting data from OpenMediaVault RPC. Data: { error: [Object] }
+[2024-10-09T18:33:46.990Z] error: <httpProxy> Error calling http://192.168.0.119:8081/rpc.php...
+[2024-10-09T18:33:46.992Z] error: <httpProxy> [
+  500,
+  Error: connect EHOSTUNREACH 192.168.0.119:8081
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -113,
+    code: 'EHOSTUNREACH',
+    syscall: 'connect',
+    address: '192.168.0.119',
+    port: 8081
+  }
+]
+[2024-10-09T18:33:46.994Z] error: <OMVProxyHandler> HTTP 500 getting data from OpenMediaVault RPC. Data: { error: [Object] }
+[2024-10-09T18:33:47.274Z] error: undefined
+[2024-10-09T18:33:49.485Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-10-09T18:33:49.500Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-10-09T18:33:49.506Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-10-09T18:33:52.276Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-10-09T18:33:52.282Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-10-09T18:33:52.284Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-10-09T18:33:54.487Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-10-09T18:33:54.488Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-10-09T18:33:54.490Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-10-09T18:33:55.093Z] error: undefined
+[2024-10-09T18:33:55.226Z] error: undefined
+[2024-10-09T18:34:02.284Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-10-09T18:34:02.285Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-10-09T18:34:02.288Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-10-09T18:34:02.521Z] error: <httpProxy> Error calling http://192.168.0.119:8081/rpc.php...
+[2024-10-09T18:34:02.522Z] error: <httpProxy> [
+  500,
+  Error: connect EHOSTUNREACH 192.168.0.119:8081
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -113,
+    code: 'EHOSTUNREACH',
+    syscall: 'connect',
+    address: '192.168.0.119',
+    port: 8081
+  }
+]
+[2024-10-09T18:34:02.524Z] error: <OMVProxyHandler> HTTP 500 getting data from OpenMediaVault RPC. Data: { error: [Object] }
+[2024-10-09T18:34:04.499Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-10-09T18:34:04.507Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-10-09T18:34:04.508Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-10-09T18:34:07.287Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-10-09T18:34:07.291Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-10-09T18:34:07.292Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-10-09T18:34:09.378Z] error: undefined
+[2024-10-09T18:34:09.422Z] error: undefined
+[2024-10-14T18:30:06.208Z] error: <httpProxy> Error calling https://192.168.0.111:8006/api2/json/cluster/resources...
+[2024-10-14T18:30:06.219Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 192.168.0.111:8006
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.0.111',
+    port: 8006
+  }
+]
+[2024-10-14T18:30:06.222Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://192.168.0.111:8006/api2/json/cluster/resources
+[2024-10-14T18:30:06.287Z] error: undefined
+[2024-10-14T18:30:07.507Z] error: <httpProxy> Error calling http://192.168.0.119:8081/rpc.php...
+[2024-10-14T18:30:07.509Z] error: <httpProxy> [
+  500,
+  Error: connect EHOSTUNREACH 192.168.0.119:8081
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -113,
+    code: 'EHOSTUNREACH',
+    syscall: 'connect',
+    address: '192.168.0.119',
+    port: 8081
+  }
+]
+[2024-10-14T18:30:07.511Z] error: <OMVProxyHandler> HTTP 500 getting data from OpenMediaVault RPC. Data: { error: [Object] }
+[2024-10-14T18:30:07.515Z] error: <httpProxy> Error calling http://192.168.0.119:8081/rpc.php...
+[2024-10-14T18:30:07.518Z] error: <httpProxy> [
+  500,
+  Error: connect EHOSTUNREACH 192.168.0.119:8081
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -113,
+    code: 'EHOSTUNREACH',
+    syscall: 'connect',
+    address: '192.168.0.119',
+    port: 8081
+  }
+]
+[2024-10-14T18:30:07.520Z] error: <OMVProxyHandler> HTTP 500 getting data from OpenMediaVault RPC. Data: { error: [Object] }
+[2024-10-14T18:30:09.485Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-10-14T18:30:09.490Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-10-14T18:30:09.495Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-10-14T18:30:11.268Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-10-14T18:30:11.270Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-10-14T18:30:11.274Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-10-14T18:30:14.490Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-10-14T18:30:14.491Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-10-14T18:30:14.493Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-10-14T18:30:15.747Z] error: undefined
+[2024-10-14T18:30:15.830Z] error: undefined
+[2024-10-14T18:30:21.278Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-10-14T18:30:21.280Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-10-14T18:30:21.283Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-10-14T18:30:24.502Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-10-14T18:30:24.504Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-10-14T18:30:24.504Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-10-14T18:30:26.284Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-10-14T18:30:26.285Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-10-14T18:30:26.286Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-10-14T18:30:29.509Z] error: undefined
+[2024-10-14T18:30:31.292Z] error: undefined
+[2024-10-14T18:30:34.999Z] error: <httpProxy> Error calling http://192.168.0.119:8081/rpc.php...
+[2024-10-14T18:30:35.000Z] error: <httpProxy> [
+  500,
+  Error: connect EHOSTUNREACH 192.168.0.119:8081
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -113,
+    code: 'EHOSTUNREACH',
+    syscall: 'connect',
+    address: '192.168.0.119',
+    port: 8081
+  }
+]
+[2024-10-14T18:30:35.000Z] error: <OMVProxyHandler> HTTP 500 getting data from OpenMediaVault RPC. Data: { error: [Object] }
+[2024-10-14T18:30:36.806Z] error: undefined
+[2024-10-14T18:30:36.871Z] error: undefined
+[2024-10-14T18:30:41.812Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-10-14T18:30:41.814Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-10-14T18:30:41.816Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-10-14T18:30:41.877Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-10-14T18:30:41.879Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-10-14T18:30:41.880Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-10-14T18:30:46.819Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-10-14T18:30:46.820Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-10-14T18:30:46.820Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-10-15T07:43:33.236Z] error: <httpProxy> Error calling http://192.168.0.119:8081/rpc.php...
+[2024-10-15T07:43:33.239Z] error: <httpProxy> [
+  500,
+  Error: connect EHOSTUNREACH 192.168.0.119:8081
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -113,
+    code: 'EHOSTUNREACH',
+    syscall: 'connect',
+    address: '192.168.0.119',
+    port: 8081
+  }
+]
+[2024-10-15T07:43:33.241Z] error: <OMVProxyHandler> HTTP 500 getting data from OpenMediaVault RPC. Data: { error: [Object] }
+[2024-10-15T07:43:34.701Z] error: undefined
+[2024-10-15T07:43:34.791Z] error: undefined
+[2024-10-15T07:43:39.690Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-10-15T07:43:39.691Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-10-15T07:43:39.692Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-10-15T07:43:39.794Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-10-15T07:43:39.794Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-10-15T07:43:39.799Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-10-15T07:43:44.694Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-10-15T07:43:44.695Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-10-15T07:43:44.695Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-10-15T10:30:24.072Z] error: undefined
+[2024-10-15T10:30:24.139Z] error: undefined
+[2024-10-15T10:30:29.072Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-10-15T10:30:29.073Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-10-15T10:30:29.074Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-10-15T10:30:29.141Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-10-15T10:30:29.145Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-10-15T10:30:29.147Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-10-15T10:30:30.094Z] error: undefined
+[2024-10-15T10:30:30.199Z] error: undefined
+[2024-10-15T10:30:34.078Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-10-15T10:30:34.079Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-10-15T10:30:34.083Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-10-15T10:30:39.151Z] error: <httpProxy> Error calling https://proxy.thornasol.duckdns.org/api/tokens...
+[2024-10-15T10:30:39.152Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN proxy.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'proxy.thornasol.duckdns.org'
+  }
+]
+[2024-10-15T10:30:39.153Z] error: <npmProxyHandler> Error 500 logging into npm {
+  error: {
+    message: 'Unknown error',
+    url: 'https://proxy.thornasol.duckdns.org/api/tokens',
+    rawError: [ 500, [Error] ]
+  }
+}
+[2024-10-15T10:30:44.089Z] error: <httpProxy> Error calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL...
+[2024-10-15T10:30:44.091Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN api.tailscale.com
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.tailscale.com'
+  }
+]
+[2024-10-15T10:30:44.092Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://api.tailscale.com/api/v2/device/ncZeresiH321CNTRL
+[2024-10-15T10:30:44.157Z] error: <httpProxy> Error calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info...
+[2024-10-15T10:30:44.158Z] error: <httpProxy> [
+  500,
+  Error: getaddrinfo EAI_AGAIN nextcloud.thornasol.duckdns.org
+      at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26) {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'nextcloud.thornasol.duckdns.org'
+  }
+]
+[2024-10-15T10:30:44.159Z] error: <credentialedProxyHandler> HTTP Error 500 calling https://nextcloud.thornasol.duckdns.org/ocs/v2.php/apps/serverinfo/api/v1/info?format=json
+[2024-10-15T10:30:45.231Z] error: undefined
+[2024-10-15T10:30:49.166Z] error: undefined
+[2024-10-15T10:31:10.474Z] error: undefined
+[2024-10-15T10:31:14.192Z] error: undefined
+[2024-10-15T10:31:44.218Z] error: undefined
+[2024-10-15T10:31:50.508Z] error: undefined
+[2024-10-15T10:33:06.731Z] error: undefined
+[2024-10-15T10:33:06.768Z] error: undefined
+[2024-10-15T10:33:11.736Z] error: undefined
+[2024-10-15T10:33:11.772Z] error: undefined
+[2024-10-15T10:33:21.765Z] error: undefined
+[2024-10-15T10:33:26.799Z] error: undefined
+[2024-10-15T10:33:36.792Z] error: undefined
+[2024-10-15T10:33:51.831Z] error: undefined
+[2024-10-15T10:33:57.084Z] error: undefined
+[2024-10-15T10:33:57.100Z] error: undefined
+[2024-10-15T10:34:32.366Z] error: undefined
+[2024-10-15T10:34:32.374Z] error: undefined
+[2024-10-15T10:36:20.440Z] error: undefined
+[2024-10-15T10:36:20.472Z] error: undefined
+[2024-10-15T10:57:48.140Z] error: undefined
+[2024-10-15T10:57:48.271Z] error: undefined
+[2024-10-15T10:57:53.130Z] error: undefined
+[2024-10-15T10:57:53.277Z] error: undefined
+[2024-10-15T10:58:26.630Z] error: undefined
+[2024-10-15T10:58:26.685Z] error: undefined
+[2024-10-15T10:58:44.749Z] error: undefined
+[2024-10-15T10:58:49.819Z] error: undefined
+[2024-10-15T13:22:40.902Z] error: undefined
+[2024-10-15T13:22:40.958Z] error: undefined
+[2024-10-15T13:29:22.882Z] error: undefined
+[2024-10-15T13:29:22.926Z] error: undefined
+[2024-10-15T13:29:33.322Z] error: undefined
+[2024-10-15T13:29:33.326Z] error: undefined
+[2024-10-15T13:30:30.503Z] error: undefined
+[2024-10-15T13:30:30.525Z] error: undefined

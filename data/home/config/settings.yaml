@@ -1,0 +1,21 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/settings
+
+providers:
+  openweathermap: openweathermapapikey
+  weatherapi: weatherapiapikey
+title: ThorNASol
+
+background:
+  image: https://fotografias.antena3.com/clipping/cmsimages01/2023/06/05/596F6B20-404A-48B4-8DEA-4514317D9BCD/recreacion-universo_98.jpg?crop=1920,1080,x0,y62&width=1900&height=1069&optimize=low&format=webply
+  blur: sm # sm, "", md, xl... see https://tailwindcss.com/docs/backdrop-blur
+  saturate: 50 # 0, 50, 100... see https://tailwindcss.com/docs/backdrop-saturate
+  brightness: 50 # 0, 50, 75... see https://tailwindcss.com/docs/backdrop-brightness
+  opacity: 50 # 0-100
+
+theme: dark
+headerStyle: boxed
+language: es
+
+showStats: true

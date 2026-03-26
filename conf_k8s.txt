@@ -1,0 +1,6 @@
+-Instalar Servidor SSh
+-Configurar LLaves y quitar contraseña (Opcional)
+-Instalar Tailscale 
+-Verificar que el usuario este en sudo
+-Correr el archivo basic_conf_k8s.sh
+
